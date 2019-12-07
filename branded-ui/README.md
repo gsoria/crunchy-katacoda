@@ -1,7 +1,6 @@
-# Start up
+# Start up / Refreshing
 
-To start locally this project run the following command:
+To start locally this project or to refresh the changes please run the following commands:
 `cd katacoda/`
-`docker-compose -f dc-dev.yml up -d`
 
-# Refreshing
+`./build-dev.sh`
